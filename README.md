@@ -7,10 +7,10 @@ This repository contains code for detecting phishing URLs using four ML models (
 3. Run all cells to train and evaluate the models
 
 # Project Structure
+├── README.md       # This file
 ├── data/           # Stealth Phisher Dataset
 ├── code/           # Entier code
 ├── models/         # Saved ML/DL models
-├── README.md       # This file
 
 # Results
 RF achieved the highest accuracy (99.6%) and performance, highlighting ensemble learning’s effectiveness. DT performed strongly, followed by LR, MLP, SVM and LSTM.
